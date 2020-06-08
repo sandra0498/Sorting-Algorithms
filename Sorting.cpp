@@ -2,12 +2,6 @@
 using namespace std;
 
 
-/*
-Class: CECS 282
-Instructor: Minhthong Nguyen
-Purpose of the program: To introduce two sorting methods: merge sort and bubble sort.
-Last updated: 11/19/2019 @ 11:00pm
-*/
 
 void bubbleSort(int arr[], int size);
 void mergeSort(int* arr, int low, int high);
